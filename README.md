@@ -6,6 +6,12 @@ My experiences traveling the world surfing and time within our military have pro
 
 I appreciate you taking the time to look at my work. If you'd like to talk about a potential project, I'm open to connecting.
 
+
+
+
+
+
+
 <p>
   <a href="https://www.linkedin.com/in/donovan-crader-898413242/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
@@ -41,5 +47,15 @@ I appreciate you taking the time to look at my work. If you'd like to talk about
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,sequelize,sqlite,mysql,postgres&perline=7" alt="My Skills">
+  </a>
+</p>
+
+
+---
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=dcraderdev&theme=gruvbox&show_icons=true" alt="Donovan Crader GitHub stats" />
   </a>
 </p>
