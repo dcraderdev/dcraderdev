@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### Skills 
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
 
 - 🔭 I’m currently working on ... www.donovancrader.dev
 
